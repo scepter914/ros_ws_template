@@ -1,4 +1,4 @@
-# ros_Ws_template
+# ros_ws_template
 
 My ROS workspace template
 
