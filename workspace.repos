@@ -1,0 +1,5 @@
+repositories:
+  ros_package_template:
+    type: git
+    url: git@github.com:scepter914/ros_package_template
+    version: main
